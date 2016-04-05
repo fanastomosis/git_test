@@ -2,6 +2,7 @@
 eggs 
 bacon
 Chicken 
+eggs
 
 Here is some extra text
 And here is a little bit more 
